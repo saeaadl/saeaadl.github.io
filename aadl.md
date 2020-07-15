@@ -9,9 +9,17 @@ Developed by a SAE International sponsored committee of experts, the Architectur
 
 The AADL is designed for the specification, analysis, automated integration and code generation of real-time performance-critical (timing, safety, schedulability, fault tolerant, security, etc.) distributed computer systems. It provides a new vehicle to allow analysis of system designs (and system of systems) prior to development and supports a model-based, model-driven development approach throughout the system life cycle.
 
+## Current list of standards
+
+* AADLv2 language [AS5506C](https://www.sae.org/standards/content/as5506c/),
+* the ARINC653, Code generation, and the EMV2 annexes from [AS5506/1A](https://www.sae.org/standards/content/as5506/1a/)
+* the Data Modeling Annex [AS5506/2](https://www.sae.org/standards/content/as5506/2/)
+* the Behavioral annex from [AS5506/3](https://www.sae.org/standards/content/as5506/3/)
+* FACE™ Technical Standard Edition 3.0 [AS5506/4](https://www.sae.org/standards/content/as5506/4/)
+
 # Benefits of AADL
 
-The SAE AADL standard can lower development and maintenance costs by
+The SAE AADL standard can lower development and maintenance costs by:
 
 * providing a standard, precise syntax and semantics for performance-critical systems, so that documentation can be well defined
 * providing the ability to model large-scale (multi-contractor) architectures from many aspects in a single analyzable model that can be incrementally refined
@@ -19,9 +27,3 @@ The SAE AADL standard can lower development and maintenance costs by
 * allowing early and life-cycle tracking of modeling and analysis
 * analyzing the system structure and runtime behavior, complementing functional simulation
 * providing a great complement to reference architectures and component-based or product-line development
-
-# Actual users and AADL-related projects
-
-As an international industry standard, AADL enjoys growing acceptance in avionics, aerospace, medical, nuclear, automotive, and robotics communities. You can find out more presentation materials and more details under the wiki section dedicated to the standardization committee works, and all :ref:`publication materials <learning>` related to AADL.
-
-The standardization committee has an active participation from industrial and academic partners, including Adventium Labs, Aerospace, Airbus industries, Boeing, Carnegie Mellon Software Engineering Institute, Chinese Academy of Science, Dassault Aviation, Edgewater, Ellidiss, European Space Agency, Honeywell, INRIA, ISPRAS, ISAE, IRIT, Kansas State University, NASA, Rockwell-Collins, Rolls-Royce, Russian Academy of Science, TELECOM ParisTech, Toyota, U.S Army, University of Pennsylvania.
